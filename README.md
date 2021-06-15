@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/d3dice" target="blank"><img src="https://img.shields.io/twitter/follow/d3dice?logo=twitter&style=for-the-badge" alt="d3dice" /></a> </p>
 
-- 🔭 I’m currently working on **laravel**
+- 🔭 I’m currently working on **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
